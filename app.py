@@ -16,4 +16,4 @@ def hello_world():
 if __name__ == '__main__':
     # Runs the app on localhost, port 5000 by default
     # Use host='0.0.0.0' to make it accessible outside the container later
-    app.run(debug=True, host='0.0.0.0', port=5002)
+    app.run(debug=True, host='0.0.0.0', port=5000)
