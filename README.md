@@ -1,6 +1,6 @@
 # flask-docker-cicd-demo
 
-[![CI/CD Pipeline](https://github.com/IT21276446/flask-docker-cicd-demo/workflows/ci.yml/badge.svg)](https://github.com/IT21276446/flask-docker-cicd-demo/actions/workflows/ci.yml)
+[![CI/CD Pipeline](https://github.com/IT21276446/flask-docker-cicd-demo/workflows/cicd.yml/badge.svg)](https://github.com/IT21276446/flask-docker-cicd-demo/actions/workflows/cicd.yml)
 
 ## Overview
 
